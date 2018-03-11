@@ -1,6 +1,6 @@
 # python-banking
 This was a quick little personal project to simulate a banking interaction with a user. It only features 1 savings account with two users.
-Running from the command line, the user is given a set of options after logging in: deposit, withdraw, check balance, and sign out.
+Running from the command line, the user is given a set of options after logging in: deposit (with/without receipt), withdraw (with/without receipt), check balance, and sign out.
 
 There are two users: 
   - name:Matt, password: 1234  
